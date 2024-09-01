@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Salma\\source\\repos\\Recording\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF01B0FF-4ED0-44DD-A6B7-CBE49C466A36}|Recording\\Recording.csproj|c:\\users\\salma\\source\\repos\\recording\\recording\\data\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF01B0FF-4ED0-44DD-A6B7-CBE49C466A36}|Recording\\Recording.csproj|solutionrelative:recording\\data\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF01B0FF-4ED0-44DD-A6B7-CBE49C466A36}|Recording\\Recording.csproj|c:\\users\\salma\\source\\repos\\recording\\recording\\manager\\recordingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF01B0FF-4ED0-44DD-A6B7-CBE49C466A36}|Recording\\Recording.csproj|solutionrelative:recording\\manager\\recordingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF01B0FF-4ED0-44DD-A6B7-CBE49C466A36}|Recording\\Recording.csproj|c:\\users\\salma\\source\\repos\\recording\\recording\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF01B0FF-4ED0-44DD-A6B7-CBE49C466A36}|Recording\\Recording.csproj|solutionrelative:recording\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF01B0FF-4ED0-44DD-A6B7-CBE49C466A36}|Recording\\Recording.csproj|c:\\users\\salma\\source\\repos\\recording\\recording\\model\\audiorecording.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF01B0FF-4ED0-44DD-A6B7-CBE49C466A36}|Recording\\Recording.csproj|solutionrelative:recording\\model\\audiorecording.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF01B0FF-4ED0-44DD-A6B7-CBE49C466A36}|Recording\\Recording.csproj|c:\\users\\salma\\source\\repos\\recording\\recording\\migrations\\20240901004411_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF01B0FF-4ED0-44DD-A6B7-CBE49C466A36}|Recording\\Recording.csproj|solutionrelative:recording\\migrations\\20240901004411_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF01B0FF-4ED0-44DD-A6B7-CBE49C466A36}|Recording\\Recording.csproj|c:\\users\\salma\\source\\repos\\recording\\recording\\your_database_file.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{EF01B0FF-4ED0-44DD-A6B7-CBE49C466A36}|Recording\\Recording.csproj|solutionrelative:recording\\your_database_file.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF01B0FF-4ED0-44DD-A6B7-CBE49C466A36}|Recording\\Recording.csproj|c:\\users\\salma\\source\\repos\\recording\\recording\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF01B0FF-4ED0-44DD-A6B7-CBE49C466A36}|Recording\\Recording.csproj|solutionrelative:recording\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF01B0FF-4ED0-44DD-A6B7-CBE49C466A36}|Recording\\Recording.csproj|c:\\users\\salma\\source\\repos\\recording\\recording\\migrations\\20240831215642_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF01B0FF-4ED0-44DD-A6B7-CBE49C466A36}|Recording\\Recording.csproj|solutionrelative:recording\\migrations\\20240831215642_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF01B0FF-4ED0-44DD-A6B7-CBE49C466A36}|Recording\\Recording.csproj|c:\\users\\salma\\source\\repos\\recording\\recording\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF01B0FF-4ED0-44DD-A6B7-CBE49C466A36}|Recording\\Recording.csproj|solutionrelative:recording\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF01B0FF-4ED0-44DD-A6B7-CBE49C466A36}|Recording\\Recording.csproj|c:\\users\\salma\\source\\repos\\recording\\recording\\migrations\\20240831215642_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF01B0FF-4ED0-44DD-A6B7-CBE49C466A36}|Recording\\Recording.csproj|solutionrelative:recording\\migrations\\20240831215642_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Salma\\AppData\\Local\\Temp\\.vsdbgsrc\\a2c00ddcb974ddf2bf4c6720235944808dcac1569a96dfc07dbf9619825fd41e\\MainWindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF01B0FF-4ED0-44DD-A6B7-CBE49C466A36}|Recording\\Recording.csproj|c:\\users\\salma\\source\\repos\\recording\\recording\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EF01B0FF-4ED0-44DD-A6B7-CBE49C466A36}|Recording\\Recording.csproj|solutionrelative:recording\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/GameZone/True/SqlTable/dbo.Games.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF01B0FF-4ED0-44DD-A6B7-CBE49C466A36}|Recording\\Recording.csproj|c:\\users\\salma\\source\\repos\\recording\\recording\\recordings.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{EF01B0FF-4ED0-44DD-A6B7-CBE49C466A36}|Recording\\Recording.csproj|solutionrelative:recording\\recordings.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF01B0FF-4ED0-44DD-A6B7-CBE49C466A36}|Recording\\Recording.csproj|c:\\users\\salma\\source\\repos\\recording\\recording\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF01B0FF-4ED0-44DD-A6B7-CBE49C466A36}|Recording\\Recording.csproj|solutionrelative:recording\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF01B0FF-4ED0-44DD-A6B7-CBE49C466A36}|Recording\\Recording.csproj|c:\\users\\salma\\source\\repos\\recording\\recording\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF01B0FF-4ED0-44DD-A6B7-CBE49C466A36}|Recording\\Recording.csproj|solutionrelative:recording\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "your_database_file.db",
+              "DocumentMoniker": "C:\\Users\\Salma\\source\\repos\\Recording\\Recording\\your_database_file.db",
+              "RelativeDocumentMoniker": "Recording\\your_database_file.db",
+              "ToolTip": "C:\\Users\\Salma\\source\\repos\\Recording\\Recording\\your_database_file.db",
+              "RelativeToolTip": "Recording\\your_database_file.db",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI8SURBVDhPdVNLT1NBGD3a23gJKaJUwsIEUaMoL2NsGyqxoCYEDRuKi0ZW3WHkL0D8BWqkJsLKQlsX9bGrNhqqRKRutCVp1BhFEiUxVyVx0Ud67/DN3EcvsZ7ck2/uN9/MnDkzswsGYrEY0xgD0zQwippGbabBzPEoORxb5Upl6Nrk5HsxiBeaWFhcZKqqWqxyVmuMx\u002BOsUCiwufn5P3dmI6eMYdhtRLEKh0pRVTlVQZpIkMPtduOs398sSdKSSBBqE5hqKJBovW1B/49Go0ilUihXys0iQZCMKPbMYQ7OrmaRza7C6/PBRxwbC4oe8gGzkYio4bApIPOM9v3oAppa23DpSgiyuw13781ZfRwa1ZqwJuAu86p8Lg//uQA6D7cjt/IKPUcOof/CMNbyearSp6HjEpHjHxMzmSU0NjTgUTKJUCiEJw\u002BT2OtyUT5DKkXJjtPbqYAQGBxEsVhEcHwciUQCl0dHsf5tA1W5CS\u002BWV1AqlcivOlvQZTH09vTi9fJLfF7fgGcggHcfvkBpbEc4HIay/zje5tb\u002Bp0A3kXPi6gSUzR94/CCON3Qaw8da8PzrX4x0HsD3n7/rm1i7BxSJHq8X16em4OnrRvrTL1zscOHpRwVn\u002Brrqmyjugf4JmjjdfQL7lALSz9Locm7hYGuL5ReHTUFNlgAVcVV7ZBlDA/0IjpzHyaMdkOnfXmvzgN9BenGSQ6dTgrMORa1tC9ZzvnnrNm2NjKROvjI/KhGNnFiA2vozZ7gxM01jgW0oG0\u002BFgH6cagAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-01T00:45:24.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240901004411_InitialCreate1.cs",
+              "DocumentMoniker": "C:\\Users\\Salma\\source\\repos\\Recording\\Recording\\Migrations\\20240901004411_InitialCreate1.cs",
+              "RelativeDocumentMoniker": "Recording\\Migrations\\20240901004411_InitialCreate1.cs",
+              "ToolTip": "C:\\Users\\Salma\\source\\repos\\Recording\\Recording\\Migrations\\20240901004411_InitialCreate1.cs",
+              "RelativeToolTip": "Recording\\Migrations\\20240901004411_InitialCreate1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T00:44:11.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240831215642_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Salma\\source\\repos\\Recording\\Recording\\Migrations\\20240831215642_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "Recording\\Migrations\\20240831215642_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\Salma\\source\\repos\\Recording\\Recording\\Migrations\\20240831215642_InitialCreate.Designer.cs",
+              "RelativeToolTip": "Recording\\Migrations\\20240831215642_InitialCreate.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T00:22:32.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AudioRecording.cs",
+              "DocumentMoniker": "C:\\Users\\Salma\\source\\repos\\Recording\\Recording\\Model\\AudioRecording.cs",
+              "RelativeDocumentMoniker": "Recording\\Model\\AudioRecording.cs",
+              "ToolTip": "C:\\Users\\Salma\\source\\repos\\Recording\\Recording\\Model\\AudioRecording.cs",
+              "RelativeToolTip": "Recording\\Model\\AudioRecording.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T00:01:02.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.cs",
+              "DocumentMoniker": "C:\\Users\\Salma\\AppData\\Local\\Temp\\.vsdbgsrc\\a2c00ddcb974ddf2bf4c6720235944808dcac1569a96dfc07dbf9619825fd41e\\MainWindow.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\a2c00ddcb974ddf2bf4c6720235944808dcac1569a96dfc07dbf9619825fd41e\\MainWindow.cs",
+              "ToolTip": "C:\\Users\\Salma\\AppData\\Local\\Temp\\.vsdbgsrc\\a2c00ddcb974ddf2bf4c6720235944808dcac1569a96dfc07dbf9619825fd41e\\MainWindow.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\a2c00ddcb974ddf2bf4c6720235944808dcac1569a96dfc07dbf9619825fd41e\\MainWindow.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T22:34:03.778Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecordingManager.cs",
+              "DocumentMoniker": "C:\\Users\\Salma\\source\\repos\\Recording\\Recording\\Manager\\RecordingManager.cs",
+              "RelativeDocumentMoniker": "Recording\\Manager\\RecordingManager.cs",
+              "ToolTip": "C:\\Users\\Salma\\source\\repos\\Recording\\Recording\\Manager\\RecordingManager.cs",
+              "RelativeToolTip": "Recording\\Manager\\RecordingManager.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAwwE8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T22:17:26.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataBaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Salma\\source\\repos\\Recording\\Recording\\Data\\DataBaseHelper.cs",
+              "RelativeDocumentMoniker": "Recording\\Data\\DataBaseHelper.cs",
+              "ToolTip": "C:\\Users\\Salma\\source\\repos\\Recording\\Recording\\Data\\DataBaseHelper.cs",
+              "RelativeToolTip": "Recording\\Data\\DataBaseHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T22:13:49.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.Games [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/GameZone/True/SqlTable/dbo.Games.sql",
+              "ToolTip": "dbo.Games [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-31T22:12:00.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDBcontextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Salma\\source\\repos\\Recording\\Recording\\Migrations\\AppDBcontextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Recording\\Migrations\\AppDBcontextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Salma\\source\\repos\\Recording\\Recording\\Migrations\\AppDBcontextModelSnapshot.cs",
+              "RelativeToolTip": "Recording\\Migrations\\AppDBcontextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T22:07:54.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "recordings.db",
+              "DocumentMoniker": "C:\\Users\\Salma\\source\\repos\\Recording\\Recording\\recordings.db",
+              "RelativeDocumentMoniker": "Recording\\recordings.db",
+              "ToolTip": "C:\\Users\\Salma\\source\\repos\\Recording\\Recording\\recordings.db",
+              "RelativeToolTip": "Recording\\recordings.db",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI8SURBVDhPdVNLT1NBGD3a23gJKaJUwsIEUaMoL2NsGyqxoCYEDRuKi0ZW3WHkL0D8BWqkJsLKQlsX9bGrNhqqRKRutCVp1BhFEiUxVyVx0Ud67/DN3EcvsZ7ck2/uN9/MnDkzswsGYrEY0xgD0zQwippGbabBzPEoORxb5Upl6Nrk5HsxiBeaWFhcZKqqWqxyVmuMx\u002BOsUCiwufn5P3dmI6eMYdhtRLEKh0pRVTlVQZpIkMPtduOs398sSdKSSBBqE5hqKJBovW1B/49Go0ilUihXys0iQZCMKPbMYQ7OrmaRza7C6/PBRxwbC4oe8gGzkYio4bApIPOM9v3oAppa23DpSgiyuw13781ZfRwa1ZqwJuAu86p8Lg//uQA6D7cjt/IKPUcOof/CMNbyearSp6HjEpHjHxMzmSU0NjTgUTKJUCiEJw\u002BT2OtyUT5DKkXJjtPbqYAQGBxEsVhEcHwciUQCl0dHsf5tA1W5CS\u002BWV1AqlcivOlvQZTH09vTi9fJLfF7fgGcggHcfvkBpbEc4HIay/zje5tb\u002Bp0A3kXPi6gSUzR94/CCON3Qaw8da8PzrX4x0HsD3n7/rm1i7BxSJHq8X16em4OnrRvrTL1zscOHpRwVn\u002Brrqmyjugf4JmjjdfQL7lALSz9Locm7hYGuL5ReHTUFNlgAVcVV7ZBlDA/0IjpzHyaMdkOnfXmvzgN9BenGSQ6dTgrMORa1tC9ZzvnnrNm2NjKROvjI/KhGNnFiA2vozZ7gxM01jgW0oG0\u002BFgH6cagAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-31T22:07:43.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240831215642_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Salma\\source\\repos\\Recording\\Recording\\Migrations\\20240831215642_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Recording\\Migrations\\20240831215642_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Salma\\source\\repos\\Recording\\Recording\\Migrations\\20240831215642_InitialCreate.cs",
+              "RelativeToolTip": "Recording\\Migrations\\20240831215642_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T21:56:42.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDBcontext.cs",
+              "DocumentMoniker": "C:\\Users\\Salma\\source\\repos\\Recording\\Recording\\Data\\AppDBcontext.cs",
+              "RelativeDocumentMoniker": "Recording\\Data\\AppDBcontext.cs",
+              "ToolTip": "C:\\Users\\Salma\\source\\repos\\Recording\\Recording\\Data\\AppDBcontext.cs",
+              "RelativeToolTip": "Recording\\Data\\AppDBcontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T21:54:05.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Salma\\source\\repos\\Recording\\Recording\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Recording\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Salma\\source\\repos\\Recording\\Recording\\App.xaml.cs",
+              "RelativeToolTip": "Recording\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T21:52:13.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Salma\\source\\repos\\Recording\\Recording\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Recording\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Salma\\source\\repos\\Recording\\Recording\\AssemblyInfo.cs",
+              "RelativeToolTip": "Recording\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T21:52:01.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Salma\\source\\repos\\Recording\\Recording\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Recording\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Salma\\source\\repos\\Recording\\Recording\\MainWindow.xaml",
+              "RelativeToolTip": "Recording\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-31T15:43:30.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Salma\\source\\repos\\Recording\\Recording\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Recording\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Salma\\source\\repos\\Recording\\Recording\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Recording\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:43:27.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
